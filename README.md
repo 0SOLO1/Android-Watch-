@@ -6,9 +6,6 @@ A short overview for the mf_watch demo project.
 
 mf_watch is a mobile demo project contained in this repository. It provides a small reference application that demonstrates watch-style UI/feature patterns and related app architecture. The project is organized as an Android Gradle project with an `app/` module.
 
-Assumptions
-- This repository is an Android Gradle project (Kotlin/Java). If this is a Flutter module/app, tell me and I'll update the README with Flutter-specific instructions.
-
 ## Key features
 - Demo watch UI screens and flows
 - Example build and packaging via Gradle wrapper
